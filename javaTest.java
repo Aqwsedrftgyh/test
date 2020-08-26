@@ -10,7 +10,7 @@ public class test extends TestBase{
         test t = new test();
         System.out.println(t.c);
         System.out.println(t.a);
-
+int b = 100;
 
     }
 }
